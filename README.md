@@ -18,7 +18,9 @@ I hear other players speaking in English but yet, for people who doesn't play po
 they have no idea what pockets are, big-slick, what premium hands are, runner-runner, flop, streets, open-ender, draw, etc.
 
 But I'm pretty sure, just like when I was a newbie in poker, 
-I AM CONFIDENT I CAN PASS BEING A NEOPHYTE IN THIS COMPUTER PROGRAMMING WORLD
+I AM CONFIDENT I CAN PASS BEING A NEOPHYTE IN THIS COMPUTER PROGRAMMING WORLD.
+
+As you can you tell, I am also new at GitHub and could use some help getting this project started.
 
 So, the goal of this project is to LEARN TOGETHER, SHARE OUR KNOWLEDGE, and EXPERIENCES with each other.
 This project also welcomes every level of Python knowledge and experiences.
